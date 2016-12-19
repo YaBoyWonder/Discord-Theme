@@ -1,6 +1,6 @@
 # Discord-Theme
 This is a discord theme I edited and played around and in my opinion made much better.
-To install this You must have BeautfiulDiscord or Better Discord
+To install this You must have BeautifulDiscord or Better Discord
 
 Once installed, then there should be an area where you can input your own css code
 
