@@ -2904,8 +2904,8 @@ code:hover .copybutton {
 
 /*-----DEV-----*/
 
-.avatar-small[style*='86477779717066752']+.member-inner .member-username .member-username-inner:after,
-.avatar-large[style*='86477779717066752']+.comment .username-wrapper .user-name:after {
+.avatar-small[style*='138431969418543104']+.member-inner .member-username .member-username-inner:after,
+.avatar-large[style*='138431969418543104']+.comment .username-wrapper .user-name:after {
     content: "Developer";
     background: #108aa5;
     margin-left: 5px;
@@ -2915,7 +2915,7 @@ code:hover .copybutton {
     border-radius: 4px;
 }
 
-.avatar-large[style*='86477779717066752']+.comment .username-wrapper .user-name:after {
+.avatar-large[style*='138431969418543104']+.comment .username-wrapper .user-name:after {
     -webkit-transition: all 200ms ease;
     transition: all 200ms ease
 }
